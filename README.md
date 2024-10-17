@@ -1,2 +1,4 @@
-- Hello My name is SomeRandomDev
-- I'm working on a few things right now
+- Hello My name is SomeRandomDev but you can call me Dev
+- I'm 15
+- I work in the US
+- I'm working on making education fun and making studying more easy and acsessable
