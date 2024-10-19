@@ -1,4 +1,4 @@
 - Hello My name is SomeRandomDev but you can call me Dev
 - I'm 15
 - I work in the US
-- I'm working on an app that gives you task to do to stay productive!
+- I'm a cyber security specialist working on cyber crimes in the us
